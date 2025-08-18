@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://peterhan.dev">aug</a></h1>
+<h1 align="center"><a href="https:guns.lol/helmet">aug</a></h1>
 
 <p align="center">
   <a href="https://github.com/commended">

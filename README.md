@@ -13,3 +13,8 @@
     <img alt="tiktok" title="tiktok" height="48" width="48" src="https://cdn.simpleicons.org/tiktok/white"></a>
 </p>
 
+
+## stats
+
+[stats](https://github-readme-stats.vercel.app/api?username=commended&show_icons=true&count_private=true&theme=default)
+

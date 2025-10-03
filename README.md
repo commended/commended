@@ -19,6 +19,6 @@
   <a href="https://github-readme-stats.vercel.app/api?username=commended&show_icons=true&count_private=true&theme=default">
     <picture>
       <source media="https://github-readme-stats.vercel.app/api?username=commended&show_icons=true&count_private=true&theme=default">
-      <img alt="stats" title="stats" height="200" width="200" src="https://github-readme-stats.vercel.app/api?username=commended&show_icons=true&count_private=true&theme=default">
+      <img alt="stats" title="stats" height="400" width="400" src="https://github-readme-stats.vercel.app/api?username=commended&show_icons=true&count_private=true&theme=default">
     </picture></a>
 </p> 

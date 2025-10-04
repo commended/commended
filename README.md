@@ -14,3 +14,4 @@
 </p>
 
 [![commended's GitHub stats](https://github-readme-stats.vercel.app/api?username=commended)](https://github.com/commended/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=commended)](https://github.com/commended/github-readme-stats)

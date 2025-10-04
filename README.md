@@ -13,5 +13,4 @@
     <img alt="tiktok" title="tiktok" height="48" width="48" src="https://cdn.simpleicons.org/tiktok/white"></a>
 </p>
 
-[![augs's GitHub stats](https://github-readme-stats.vercel.app/api?username=eurror&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/commended/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eurror&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/commended/github-readme-stats)
+[![commended's GitHub stats](https://github-readme-stats.vercel.app/api?username=commended)](https://github.com/commended/github-readme-stats)

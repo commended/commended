@@ -13,10 +13,5 @@
     <img alt="tiktok" title="tiktok" height="48" width="48" src="https://cdn.simpleicons.org/tiktok/white"></a>
 </p>
 
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=commended&show_icons=true&count_private=true&theme=default">
-    <picture>
-      <source media="https://github-readme-stats.vercel.app/api?username=commended&show_icons=true&count_private=true&theme=default">
-      <img alt="stats" title="stats" height="400" width="400" src="https://github-readme-stats.vercel.app/api?username=commended&show_icons=true&count_private=true&theme=default">
-    </picture></a>
-</p> 
+[![augs's GitHub stats](https://github-readme-stats.vercel.app/api?username=eurror&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/commended/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eurror&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/commended/github-readme-stats)

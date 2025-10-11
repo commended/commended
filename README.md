@@ -13,5 +13,4 @@
     <img alt="tiktok" title="tiktok" height="48" width="48" src="https://cdn.simpleicons.org/tiktok/black"></a>
 </p>
 
-[![commended's GitHub stats](https://github-readme-stats.vercel.app/api?username=commended)](https://github.com/commended/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=commended)](https://github.com/commended/github-readme-stats)
+[![commended's GitHub stats](https://github-readme-stats.vercel.app/api?username=commended)]

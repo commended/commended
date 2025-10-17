@@ -11,4 +11,4 @@
       <img alt="instagram" title="instagram" height="48" width="48" src="https://cdn.simpleicons.org/instagram/black"></picture></a>
 </p>
 
-![commended's GitHub stats](https://github-readme-stats.vercel.app/api?username=commended)
+![GitHub User's stars](https://img.shields.io/github/stars/commended)
